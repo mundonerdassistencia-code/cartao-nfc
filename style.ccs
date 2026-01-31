@@ -35,8 +35,10 @@ body {
 }
 
 .logo {
-    width: 120px;
-    margin-bottom: 15px;
+    width: 90px;
+    max-width: 35vw;
+    margin: 0 auto 12px;
+    display: block;
 }
 
 h1 {
@@ -89,4 +91,5 @@ footer {
     font-size: 12px;
     opacity: 0.6;
 }
+
 
